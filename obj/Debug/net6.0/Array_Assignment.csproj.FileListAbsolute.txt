@@ -1,0 +1,17 @@
+C:\Users\habib\OneDrive\Documents\Array_Assignment\obj\Debug\net6.0\Array_Assignment.csproj.AssemblyReference.cache
+C:\Users\habib\OneDrive\Documents\Array_Assignment\obj\Debug\net6.0\Array_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habib\OneDrive\Documents\Array_Assignment\obj\Debug\net6.0\Array_Assignment.AssemblyInfoInputs.cache
+C:\Users\habib\OneDrive\Documents\Array_Assignment\obj\Debug\net6.0\Array_Assignment.AssemblyInfo.cs
+C:\Users\habib\OneDrive\Documents\Array_Assignment\obj\Debug\net6.0\Array_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\habib\OneDrive\Documents\Array_Assignment\bin\Debug\net6.0\Array_Assignment.exe
+C:\Users\habib\OneDrive\Documents\Array_Assignment\bin\Debug\net6.0\Array_Assignment.deps.json
+C:\Users\habib\OneDrive\Documents\Array_Assignment\bin\Debug\net6.0\Array_Assignment.runtimeconfig.json
+C:\Users\habib\OneDrive\Documents\Array_Assignment\bin\Debug\net6.0\Array_Assignment.dll
+C:\Users\habib\OneDrive\Documents\Array_Assignment\bin\Debug\net6.0\Array_Assignment.pdb
+C:\Users\habib\OneDrive\Documents\Array_Assignment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\habib\OneDrive\Documents\Array_Assignment\obj\Debug\net6.0\Array_Assignment.csproj.CopyComplete
+C:\Users\habib\OneDrive\Documents\Array_Assignment\obj\Debug\net6.0\Array_Assignment.dll
+C:\Users\habib\OneDrive\Documents\Array_Assignment\obj\Debug\net6.0\refint\Array_Assignment.dll
+C:\Users\habib\OneDrive\Documents\Array_Assignment\obj\Debug\net6.0\Array_Assignment.pdb
+C:\Users\habib\OneDrive\Documents\Array_Assignment\obj\Debug\net6.0\Array_Assignment.genruntimeconfig.cache
+C:\Users\habib\OneDrive\Documents\Array_Assignment\obj\Debug\net6.0\ref\Array_Assignment.dll
